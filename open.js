@@ -1,3 +1,3 @@
 var open = require('open');
 require('./lib/app.js');
-open('http://localhost:8080/');
+open('http://localhost:80/');
